@@ -8,10 +8,9 @@ Rails6 & Mysql8での開発環境を行えるようにしました。
 ##  環境構築の手順
 1. git cloneをする
 <br>
-  featureブランチに必要なデータをアップしているので、featureブランチを指定してgit cloneを実施してください。
   
 ```
-git clone -b feature https://github.com/TakemuraTakuya/docker_task.git
+git clone https://github.com/TakemuraTakuya/docker_task.git
 ```
 
 2. ディレクトリを移動
